@@ -43,11 +43,24 @@ Number of columns - 14
 ### Tech Stack
 <li>Python3</li>
 <li>Machine Learning</li>
+<li>Auto ML</li>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 ### Requirements
 <li>Pandas</li>
+<li>requests</li>
+<li>tabulate</li>
+<li>colorama>=0.3.8</li>
+<li>future</li>
+<li>h2o</li>
+<li>seaborn</li>
+<li>sklearn</li>
+<li>tensorflow</li>
+<li>matplotlib</li>
+<li>numpy</li>
+
+
  
 <p align="right">(<a href="#top">back to top</a>)</p>
