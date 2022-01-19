@@ -11,6 +11,8 @@ In general, Churn is expresses as a degree of customer inactivity or disengageme
 
 <p align="right"></p>
 
+![image](https://user-images.githubusercontent.com/64835600/150102180-b6030b03-0787-440f-b4a7-8624a5b5b5fd.png)
+
 
 ### Tech Stack
 Python3
