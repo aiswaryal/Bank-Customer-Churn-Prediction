@@ -18,22 +18,23 @@ In general, Churn is expresses as a degree of customer inactivity or disengageme
 ### Data Description
 
 Number of rows - 10000
+
 Number of columns - 14
 
- 1.)RowNumber - The number of the row
- 2.)CustomerID - Unique Customer ID
- 3.)Surname - Surname of the customer
- 4.)CreditScore - Credit Score of the customer
- 5.)Geography - Which Country they belong to
- 6.)Gender -  Customer's gender
- 7.)Age - Customer's age
- 8.)Tenure - The time of bond with company
- 9.)Balance - The amount left with the customer
- 10.)NumOfProducts - The products customer owns
- 11.)HasCrCredit - Do they have a credit card or not
- 12.)IsActiveMember - How active member they are
- 13.)EstimatedSalary - Their estimated salary
- 14.)Exited - Whether they stay in the or leave
+ <li>1.)RowNumber - The number of the row</li>
+ <li>2.)CustomerID - Unique Customer ID</li>
+ <li>3.)Surname - Surname of the customer</li>
+ <li>4.)CreditScore - Credit Score of the customer</li></li>
+ <li>5.)Geography - Which Country they belong to</li>
+ <li>6.)Gender -  Customer's gender</li>
+ <li>7.)Age - Customer's age</li>
+ <li>8.)Tenure - The time of bond with company</li>
+ <li>9.)Balance - The amount left with the customer</li>
+ <li>10.)NumOfProducts - The products customer owns</li>
+ <li>11.)HasCrCredit - Do they have a credit card or not</li>
+ <li>12.)IsActiveMember - How active member they are</li>
+ <li>13.)EstimatedSalary - Their estimated salary</li>
+ <li>14.)Exited - Whether they stay in the or leave</li>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
