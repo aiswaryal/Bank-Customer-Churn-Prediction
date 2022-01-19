@@ -21,20 +21,20 @@ Number of rows - 10000
 
 Number of columns - 14
 
- <li>1.)RowNumber - The number of the row</li>
- <li>2.)CustomerID - Unique Customer ID</li>
- <li>3.)Surname - Surname of the customer</li>
- <li>4.)CreditScore - Credit Score of the customer</li></li>
- <li>5.)Geography - Which Country they belong to</li>
- <li>6.)Gender -  Customer's gender</li>
- <li>7.)Age - Customer's age</li>
- <li>8.)Tenure - The time of bond with company</li>
- <li>9.)Balance - The amount left with the customer</li>
- <li>10.)NumOfProducts - The products customer owns</li>
- <li>11.)HasCrCredit - Do they have a credit card or not</li>
- <li>12.)IsActiveMember - How active member they are</li>
- <li>13.)EstimatedSalary - Their estimated salary</li>
- <li>14.)Exited - Whether they stay in the or leave</li>
+ <li>RowNumber - The number of the row</li>
+ <li>CustomerID - Unique Customer ID</li>
+ <li>Surname - Surname of the customer</li>
+ <li>CreditScore - Credit Score of the customer</li></li>
+ <li>Geography - Which Country they belong to</li>
+ <li>Gender -  Customer's gender</li>
+ <li>Age - Customer's age</li>
+ <li>Tenure - The time of bond with company</li>
+ <li>Balance - The amount left with the customer</li>
+ <li>NumOfProducts - The products customer owns</li>
+ <li>HasCrCredit - Do they have a credit card or not</li>
+ <li>IsActiveMember - How active member they are</li>
+ <li>EstimatedSalary - Their estimated salary</li>
+ <li>Exited - Whether they stay in the or leave</li>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
