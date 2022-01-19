@@ -13,6 +13,8 @@ In general, Churn is expresses as a degree of customer inactivity or disengageme
 
 ![image](https://user-images.githubusercontent.com/64835600/150102180-b6030b03-0787-440f-b4a7-8624a5b5b5fd.png)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Data Description
 
 Number of rows - 10000
@@ -33,7 +35,7 @@ Number of columns - 14
  13.)EstimatedSalary - Their estimated salary
  14.)Exited - Whether they stay in the or leave
 
-
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
