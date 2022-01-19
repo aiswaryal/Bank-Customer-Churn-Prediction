@@ -41,12 +41,13 @@ Number of columns - 14
 
 
 ### Tech Stack
-Python3
-Machine Learning
+<li>Python3</li>
+<li>Machine Learning</li>
 
-<p align="right"></p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 ### Requirements
- 1.) Pandas
+<li>Pandas</li>
  
+<p align="right">(<a href="#top">back to top</a>)</p>
