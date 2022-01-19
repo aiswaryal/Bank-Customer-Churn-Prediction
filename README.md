@@ -64,3 +64,13 @@ Number of columns - 14
 
  
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+### Acknowledgements
+https://www.udemy.com/course/intro-to-machine-learning-course/learn/lecture/28327976#overview
+
+https://www.kaggle.com/mdsohailahmed/hyper-parameters-using-gridsearchcv/data
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
