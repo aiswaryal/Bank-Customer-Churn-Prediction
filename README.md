@@ -3,7 +3,7 @@
 ### Aim of The Project
 Predict whether a person will leave the bank services i.e. he/she will churn or not.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"></p>
 
 
 ### What is Churn?
